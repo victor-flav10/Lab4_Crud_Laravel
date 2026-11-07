@@ -1,6 +1,6 @@
 # Lab4_Crud_Laravel
 
-### Este repositorio contiene la documentación técnica y el código fuente del laboratorio desarrollado en Laravel, implementando un sistema CRUD (Create, Read, Update, Delete) conectado a una base de datos relacional MySQL gestionada mediante WampServer.
+#### Este repositorio contiene la documentación técnica y el código fuente del laboratorio desarrollado en Laravel, implementando un sistema CRUD (Create, Read, Update, Delete) conectado a una base de datos relacional MySQL gestionada mediante WampServer.
 ---
 
 # 👤 Datos Personales
@@ -13,7 +13,7 @@
 
 # Introducción del Laboratorio
 
-### El propósito de este laboratorio es la construcción práctica de una aplicación web basada en el framework Laravel para la gestión de productos (Products). El proceso abarca desde la inicialización del proyecto y la configuración del entorno local hasta la resolución de conflictos de compatibilidad en bases de datos, la gestión de migraciones, la implementación de modelos con asignación masiva, validaciones mediante peticiones personalizadas (FormRequest), controladores con recursos completos y vistas dinámicas apoyadas por plantillas Blade y Bootstrap.
+#### El propósito de este laboratorio es la construcción práctica de una aplicación web basada en el framework Laravel para la gestión de productos (Products). El proceso abarca desde la inicialización del proyecto y la configuración del entorno local hasta la resolución de conflictos de compatibilidad en bases de datos, la gestión de migraciones, la implementación de modelos con asignación masiva, validaciones mediante peticiones personalizadas (FormRequest), controladores con recursos completos y vistas dinámicas apoyadas por plantillas Blade y Bootstrap.
 ---
 
 # Paso 1: Creación e Inicialización del Proyecto
