@@ -5,11 +5,11 @@
 
 # 👤 Datos Personales
 
-    Nombre: Víctor Antonio Flavio Melendez
+    Nombre: Víctor Flavio
 
     Universidad: Universidad Tecnológica de Panamá (UTP)
 
-    Entorno de Trabajo: Windows 10, WampServer (MySQL), PHP 8.5, Laravel 13, Visual Studio Code, Node.js / Vite.
+    Entorno de Trabajo: Windows 11, WampServer (MySQL), PHP 8.5, Laravel 13, Visual Studio Code, Node.js / Vite.
 
 # Introducción del Laboratorio
 
