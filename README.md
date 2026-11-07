@@ -84,7 +84,8 @@ php artisan migrate:fresh
 
 * Qué se hizo: Se estableció un límite de longitud predeterminado de 191 caracteres para las columnas de tipo cadena (string), se limpió la caché de configuración del framework y se ejecutaron las migraciones iniciales para verificar la correcta creación de las tablas base (users, cache, jobs).
 
-# Paso 4: Creación del Modelo y Migración de ProductosSe generó el modelo Product junto con su migración para estructurar los campos de la tabla en la base de datos de MySQL.
+# Paso 4: Creación del Modelo y Migración de Productos
+Se generó el modelo Product junto con su migración para estructurar los campos de la tabla en la base de datos de MySQL.
  Comando ejecutado:`<i>Bashphp artisan make:model Product -m</i>`
 <br></br>
 ```
@@ -174,10 +175,10 @@ Durante el proceso de desarrollo del laboratorio, se documentaron y solucionaron
 ---
 # Ilustraciones/Imagenes
 <img width="530" height="377" alt="Screenshot 2026-11-06 185641" src="https://github.com/user-attachments/assets/3017fbe4-c067-4e9b-89b1-a82cf4595bbd" />
-_img#1:Creación del laboratorio de Crud-Laravel_ <br></br>
+<i>img#1:Creación del laboratorio de Crud-Laravel</i> <br></br>
 
 <img width="430" height="530" alt="Screenshot 2026-11-06 185727" src="https://github.com/user-attachments/assets/49158e5e-1925-48af-898f-f8e2c8c7970a" />
-_img#2:Configuración de la Base de Datos_ <br></br>
+<i>img#2:Configuración de la Base de Datos</i> <br></br>
 
 <img width="1130" height="693" alt="Screenshot 2026-11-06 185936" src="https://github.com/user-attachments/assets/87d6946f-0796-4b01-bf9f-bb200dcb3fff" /><br></br>
 <img width="1160" height="577" alt="Screenshot 2026-11-06 190200" src="https://github.com/user-attachments/assets/6c0f6969-1be4-455e-8807-c36dda6058dd" /><br></br>
@@ -186,12 +187,12 @@ _img#2:Configuración de la Base de Datos_ <br></br>
 <img width="822" height="153" alt="Screenshot 2026-11-06 191206" src="https://github.com/user-attachments/assets/bd2222f5-2dc0-481e-9c68-7c9acba710d1" /><br></br>
 <img width="822" height="420" alt="Screenshot 2026-11-06 192123" src="https://github.com/user-attachments/assets/e33bf105-1691-4d00-82f7-7a269d3f44cd" /><br></br>
 <img width="817" height="697" alt="Screenshot 2026-11-06 192230" src="https://github.com/user-attachments/assets/ff203ace-e1b5-4320-911e-d016ad4477bb" /><br></br>
-_img#3, 4, 5, 6, 7, 8, 9:Comandos, Codigos y Archivos modificados durante el Laboratorio_ <br></br>
+<i>img#3, 4, 5, 6, 7, 8, 9:Comandos, Codigos y Archivos modificados durante el Laboratorio</i> <br></br>
 
 <img width="1520" height="410" alt="Screenshot 2026-11-07 032052" src="https://github.com/user-attachments/assets/ea273470-0caf-4a1c-9c93-3f80a445ef78" />
 <img width="1520" height="255" alt="Screenshot 2026-11-07 032323" src="https://github.com/user-attachments/assets/e8f6ec1b-3773-4810-b163-1fb205201342" />
 <img width="1526" height="158" alt="Screenshot 2026-11-07 033122" src="https://github.com/user-attachments/assets/3e96085c-8a8d-451f-ad09-7633f0091082" />
-_img#10, 11, 12:Edición de la Base de Datos desde la pagina web_ <br></br>
+<i>img#10, 11, 12:Edición de la Base de Datos desde la pagina web</i> <br></br>
 
 <img width="927" height="576" alt="Screenshot 2026-11-07 033136" src="https://github.com/user-attachments/assets/31eecdc0-4086-4d57-8e64-0edcb5b2c3ab" />
-_img#13:Datos almacenados e las tablas de la BD_ <br></br>
+<i>img#13:Datos almacenados e las tablas de la BD</i> <br></br>
